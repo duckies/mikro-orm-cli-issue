@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "pnpm --filter server dev"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4"
+  }
+}
